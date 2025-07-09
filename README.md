@@ -9,7 +9,7 @@ This repository is dedicated to:
 - **User Support and Feedback**: A platform for users to share feedback, ask questions, or get assistance with the app.
 
 ## Contents
-- **Privacy Policy**: Find the [Privacy Policy](PrivacyPolicy.md) for Carnivore Compass, outlining our commitment to user privacy and data practices.
+- **Privacy Policy**: Find the [Privacy Policy](privacy-policy-pro.md) for Carnivore Compass, outlining our commitment to user privacy and data practices.
 - **Support Files**: Additional documentation or resources related to the app's functionality and usage (to be added as needed).
 - **Issues Section**: Use the [Issues](https://github.com/oppahansi/carnivore--compass-support/issues) tab to report bugs, suggest features, or seek support.
 
