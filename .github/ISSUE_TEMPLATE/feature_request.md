@@ -2,7 +2,7 @@
 name: Feature Request
 about: Suggest an idea or new feature for the Carnivore Compass app
 title: '[FEATURE] '
-labels: feature
+labels: enhancement
 assignees: ''
 
 ---
